@@ -25,7 +25,7 @@ import org.apache.tools.ant.Project;
  * @since Ant1.7
  */
 
-public class ProxySetup {
+public class ProxySetup.java {
 
     /**
      * owner project; used for logging and extracting properties
